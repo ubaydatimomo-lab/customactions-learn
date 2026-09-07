@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/ubaydatimomo-lab/customactions-learn#readme",
   "dependencies": {
-    "@actions/core": "^3.0.1"
+    "@actions/core": "^1.11.1"
   }
 }
